@@ -1,0 +1,9 @@
+Processing outlier
+
+
+https://www.zhihu.com/question/38066650
+4 methods:
+IQR 
+Z-Score --------> Andy
+DBSCAN ---------> Haochen
+Isolation Forest --> Mira
